@@ -16,8 +16,8 @@ Este proyecto es una API REST construida con **NestJS** que gestiona funcionalid
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/user/financial-service.git
-cd financial-service
+git https://github.com/jhonnyer/backend_NestJS.git 
+```
 
 ## Instalar dependencias
 npm install
