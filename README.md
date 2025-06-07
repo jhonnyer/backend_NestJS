@@ -127,14 +127,12 @@ Reporte de logs estructurados con WINSTON se almacenan en la carpeta logs/
 ## Generar estructura del proyecto
   * tree .\src /F /A > estructura.txt
 
-##############################################################
-##################		IMPORTANTE    ########################
-##############################################################
-####  EJECUTAR PROYECTO DOCKERIZADO EN DOCKER CONTAINER  #####
-##############################################################
+# IMPORTANTE 
+# EJECUTAR PROYECTO DOCKERIZADO EN DOCKER CONTAINER  #####
 	* docker-compose up --build
 
-#Lanzar nuevamente el proyecto Dockerizado después de construido los container del proyecto.
+Lanzar nuevamente el proyecto Dockerizado después de construido los container del proyecto.
+
 	* docker-compose up
 
 # NOTA: Lanzar comando anterior en la raíz del proyecto: financial-service
